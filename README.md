@@ -5,6 +5,8 @@
 
 Gemini Chat is a modern, responsive chatroom application built with Next.js (App Router), React, Zustand, and raw CSS. It features OTP-based authentication, global state management, dark mode, toast notifications, infinite scroll, and robust form validation. The UI is inspired by ChatGPT and designed for a seamless, mobile-friendly experience.
 
+link : https://gemini-frontend-vishal.netlify.app/
+
 ---
 
 ## Setup & Run Instructions
